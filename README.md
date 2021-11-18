@@ -188,7 +188,22 @@ Group name : เอกาไร้สติ
            * Accuracy, Error Rate,Sensitivity and Specificity
            * Precision and Recall, and F-measures
         * Neural Network for Classification
-           
+   * [k-Nearest Neighbor & Neural Networks](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
+        * Load Data
+        * Split Data
+        * Train Model
+           * import
+           * knn1
+           * KNN2
+           * knn3
+        * Retrain & Evaluate
+        * Neural Network
+           * Import
+           * Define
+           * Train - Test
+           * ANN 2
+           * ANN 3
+   
 
 
 
