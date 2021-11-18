@@ -52,3 +52,4 @@ Data Warehouse & Data Mining วิชาเรียนเกี่ยวกั
      * Retain & Evaluation
    * Data_Visualization
    * THE END
+* [ไฟล์นำเสนองานกลุ่มเอกาไร้สติ](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Group-Project.pdf)
