@@ -69,6 +69,12 @@ Group name : เอกาไร้สติ
        * Example 3 (ไม่มี input และ output)
        * ลักษณะของ input(paremeter,argument)
        * Quiz2
+  * Pandas
+    * Read Data
+        * .head() .tail()
+    * Boxplot
+    * Time Series Plot
+
 
 
 * บทที่ 7 Clustering
