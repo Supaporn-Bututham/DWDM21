@@ -69,7 +69,7 @@ Group name : เอกาไร้สติ
        * Example 3 (ไม่มี input และ output)
        * ลักษณะของ input(paremeter,argument)
        * Quiz2
-  * Pandas
+  * [Pandas](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Data102(Chapter2).ipynb)
     * Read Data
         * .head() .tail()
     * Boxplot
