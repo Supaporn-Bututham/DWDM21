@@ -123,7 +123,7 @@ Group name : เอกาไร้สติ
                 * ถ้าเป็น numeric ใช้ mean
                 * ถ้าเป็น norminal (ตัวหนังสือ) จะใช้ mode
                 * ถ้าเป็น ordinal ใช้ median
-                    * เติมด้วยค่าของ column ใกล้เคียง (เดี๋ยวย้อนกลับมา)
+                      * เติมด้วยค่าของ column ใกล้เคียง (เดี๋ยวย้อนกลับมา)
            * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
         * Select data by values [PD]
            * สร้าง list ของ boolean
