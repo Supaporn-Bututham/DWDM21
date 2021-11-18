@@ -120,6 +120,16 @@ Group name : เอกาไร้สติ
        * Apriori
          * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง
          * แก้ไข Quiz7
+ * บทที่ 6 Classification
+   * [Lecture Classification: Basic Concepts](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_Chap8.pdf)
+       * Basic Concepts
+         * Supervised vs. Unsupervised Learning (1)
+         * Supervised vs. Unsupervised Learning (2)
+         * Prediction Problems: Classification vs. Numeric Prediction
+         * Classification—Model Construction, Validation and Testing
+       * Decision Tree Induction
+         * An Example
+         * Information Gain
 
 
 
