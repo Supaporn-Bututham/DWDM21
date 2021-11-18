@@ -22,7 +22,7 @@ Data Warehouse & Data Mining วิชาเรียนเกี่ยวกั
 
 
 * บทที่ 7 Clustering
-  * [Clustering] (https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap8_Clustering.ipynb)
+  * [Clustering](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap8_Clustering.ipynb)
    * K-means
    * Generate Data
    * Explore Data
