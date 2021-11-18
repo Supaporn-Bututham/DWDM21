@@ -131,7 +131,7 @@ Group name : เอกาไร้สติ
          * An Example
          * Information Gain
    * [HW Decision Tree คำนวณมือ](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Decision-Tree_%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A1%E0%B8%B7%E0%B8%AD.pdf)
-   * 
+   * [Lecture Decision Tree](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_ch8%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
 
 
 
