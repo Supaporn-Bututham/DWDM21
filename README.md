@@ -175,6 +175,13 @@ Group name : เอกาไร้สติ
          * เลือก mytreeNo3 แล้ว train ใหม่ด้วย Training
          * เฉลย HW
          * เลือก T4 แล้ว train ใหม่ด้วย Training
+  * [Lecture k-Nearest Neighbor](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_14.10.64.pdf)
+      * Bayes’ Theorem: Basics
+      * Naïve Bayes Classifier
+         * Categorical vs. Continuous Valued Features
+         * Training Dataset
+      * Lazy Learner: Instance-Based Methods
+      * The k-Nearest Neighbor Algorithm
 
 
 
