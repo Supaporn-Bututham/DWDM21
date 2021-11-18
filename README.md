@@ -54,9 +54,9 @@ Group name : เอกาไร้สติ
            * เติมค่าลงไปใน list (.append())
            * การชี้ค่าใน list (indexing)
          * list slicing
-          * [จุดเริ่มต้น:จุดสุดท้าย:step]
+           * [จุดเริ่มต้น:จุดสุดท้าย:step]
          * list + list
-          * format string
+           * format string
     * Loop
        * Nested loop
     * Condition (if ststement)
