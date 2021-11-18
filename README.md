@@ -56,7 +56,7 @@ Group name : เอกาไร้สติ
          * list slicing
            * [จุดเริ่มต้น:จุดสุดท้าย:step]
          * list + list
-           * format string
+         * format string
     * Loop
        * Nested loop
     * Condition (if ststement)
