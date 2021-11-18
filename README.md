@@ -132,6 +132,49 @@ Group name : เอกาไร้สติ
          * Information Gain
    * [HW Decision Tree คำนวณมือ](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Decision-Tree_%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A1%E0%B8%B7%E0%B8%AD.pdf)
    * [Lecture Decision Tree](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_ch8%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+   * [Decision Tree](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap7_Classification_(Decision_Tree).ipynb) 
+      * Load Data
+      * Train Model
+         * import (เรียกใช้ algorithm ที่เราต้องการ)
+         * define (กำหนด parameters ให้กับ model)
+         * train (ฝึกสอนตัวแบบ)
+      * Plot tree
+      * Evalution
+         * Random
+      * Advanced Tree
+         * Import
+         * Define
+         * Train
+      * TEST
+      * Start here
+         * Import
+         * Define
+         * Train
+         * Evaluate
+      * HW
+         * ต้นไม้ที่ใช้เกณฑ์ Entropy มีความสูงไม่เกิน 4 ชั้น
+            * Import
+            * Define
+            * Train
+            * Evaluate
+         * ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
+            * import
+            * Define
+            * Train
+            * Evaluate
+         * ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
+            * import
+            * Define
+            * Train
+            * Evaluate
+         * ต้นไม้ที่เราคิดเอง
+            * import
+            * Define
+            * Train
+            * Evaluate
+         * เลือก mytreeNo3 แล้ว train ใหม่ด้วย Training
+         * เฉลย HW
+         * เลือก T4 แล้ว train ใหม่ด้วย Training
 
 
 
