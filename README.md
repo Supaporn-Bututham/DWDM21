@@ -182,6 +182,14 @@ Group name : เอกาไร้สติ
            * Training Dataset
         * Lazy Learner: Instance-Based Methods
         * The k-Nearest Neighbor Algorithm
+   * [Lecture Evaluation & Neural Networks](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Lecture_Precision_Recall%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+        * Classifier Evaluation Metrics
+           * Confusion Matrix
+           * Accuracy, Error Rate,Sensitivity and Specificity
+           * Precision and Recall, and F-measures
+        * Neural Network for Classification
+           
+
 
 
 
