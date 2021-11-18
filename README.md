@@ -125,9 +125,11 @@ Group name : เอกาไร้สติ
                 * ถ้าเป็น ordinal ใช้ median
                       * เติมด้วยค่าของ column ใกล้เคียง (เดี๋ยวย้อนกลับมา)
            * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+           
         * Select data by values [PD]
            * สร้าง list ของ boolean
-                * นำ list ของ boolean มาเลือกค่าในตาราง
+                 * นำ list ของ boolean มาเลือกค่าในตาราง
+                 
         * Quiz 4 + HW
            * records ที่ กักตัวที่ขอนแก่น
            * records ที่ กักตัวที่ ขอนแก่น+โคราช+อุดร
@@ -139,8 +141,10 @@ Group name : เอกาไร้สติ
                 * ต่อตารางแนวแกน Y [PD]
            * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
            * การเรียงข้อมูล [PD]
+          
         * Outlier
            * ตัด outlier แบบ manual
+        
         * Quiz 5
            * HW หรือ Quiz กลุ่ม (III) แก้ให้ function box_vals สามารถรับ input ที่ box plot วาดแบบแนวนอนได้ (vert = False)
            * Pandas' looping (.iterrows)
