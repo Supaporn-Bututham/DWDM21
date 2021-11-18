@@ -203,12 +203,14 @@ Group name : เอกาไร้สติ
            * Train - Test
            * ANN 2
            * ANN 3
-   
-
-
-
-
-
+   * [Evaluation](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Load data
+       * แบ่ง Data
+       * สร้าง Model ทำนาย
+          * Import
+          * Define
+          * Train
+          * Evaluation
 
 * บทที่ 7 Clustering
   * [Clustering](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chap8_Clustering.ipynb)
