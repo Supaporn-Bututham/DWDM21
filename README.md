@@ -74,6 +74,14 @@ Group name : เอกาไร้สติ
         * .head() .tail()
     * Boxplot
     * Time Series Plot
+  * [Visualization](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Quiz กลุ่ม III วาดกราฟที่มี marker เป็น สี่เหลี่ยมจัตุรัส เส้นเป็น เส้นประสลับจุดไข่ปลา สีฟ้าอ่อน
+    * Bar chart
+       * Grouped Barchart
+       * Sracked Barchart
+    * Histogram
 
 
 
