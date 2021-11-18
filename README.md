@@ -16,7 +16,11 @@ Group name : เอกาไร้สติ
 5.นางสาววิกานดา หงษ์บุญมี 623020764-2
 
 # สารบัญ
-Data Warehouse & Data Mining วิชาเรียนเกี่ยวกับ 
+* บทที่ 1 INTRODUCTION
+  * [Lecture Introduction](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chapter1_DWDM21.pdf)
+    * Data Mining?
+    * Knowledge Discovery (KDD) Process
+
 
 
 
