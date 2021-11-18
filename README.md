@@ -130,6 +130,8 @@ Group name : เอกาไร้สติ
        * Decision Tree Induction
          * An Example
          * Information Gain
+   * [HW Decision Tree คำนวณมือ](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Decision-Tree_%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A1%E0%B8%B7%E0%B8%AD.pdf)
+   * 
 
 
 
