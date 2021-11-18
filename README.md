@@ -101,7 +101,10 @@ Group name : เอกาไร้สติ
        * HW11
        * เฉลย HW11
        * Distance of Binary Value
-
+* บทที่ 4 Data Warehousing and On-line Analytical Processing
+  * [Lecture Data Warehousing and On-line Analytical Processing](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Lecture_Chap4.pdf)
+       * What is a Data Warehouse?
+       * From Tables and Spreadsheets to Data Cubes
 
 
 
