@@ -20,6 +20,18 @@ Group name : เอกาไร้สติ
   * [Lecture Introduction](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chapter1_DWDM21.pdf)
     * Data Mining?
     * Knowledge Discovery (KDD) Process
+    
+* บทที่ 2 Getting to Know Your Data
+  * [Lecture Data Objects and Attribute Types](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Chapter2_2.1.pdf)
+    * Types of Data Sets
+       * Record Data
+       * Ordered Data
+       * Spatial, image and multimedia Data
+    * Important Characteristics of Structured Data
+    * Data Objects
+    * Attributes
+    * Attribute Types
+
 
 
 
