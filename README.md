@@ -106,7 +106,11 @@ Group name : เอกาไร้สติ
   * [Lecture Data Preprocessing](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_Chap3.pdf)
        * Data Preprocessing: An Overview
        * Data Cleaning      
-       * 
+  * [Data Preprocessing](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Data_Preprocessing_(Chapter_3)_.ipynb)
+       * Meta Data (Data ที่ใช้อธิบาย Data)
+         * ชี้ข้อมูลในตาราง
+             * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+             * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
        
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
   * [Lecture Data Warehousing and On-line Analytical Processing](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Lecture_Chap4.pdf)
