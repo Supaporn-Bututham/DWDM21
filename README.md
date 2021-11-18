@@ -42,8 +42,33 @@ Group name : เอกาไร้สติ
     * Ordinal Variables
     * Attributes of Mixed Type
     * Cosine Similarity of Two Vectors
-
-
+  * [Basic Phython](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Data101(Chapter2).ipynb)
+    * Variables
+      * ข้อกำหนดในการตั้งชื่อตัวแปร
+      * ทำตามที่กำนด
+    * Casting int() float() str()
+    * Data Structure
+       * List
+         * string คือ list ของตัวหนังสือ
+         * วิธีการสร้าง list ว่าง
+           * เติมค่าลงไปใน list (.append())
+           * การชี้ค่าใน list (indexing)
+         * list slicing
+          * [จุดเริ่มต้น:จุดสุดท้าย:step]
+         * list + list
+          * format string
+    * Loop
+       * Nested loop
+    * Condition (if ststement)
+       * Quiz 1 หา min
+       * HW ตัดเกรด
+    * Function
+       * Example1
+       * Example2 (ไม่มี input)
+       * Example 3 (ไม่มี output)
+       * Example 3 (ไม่มี input และ output)
+       * ลักษณะของ input(paremeter,argument)
+       * Quiz2
 
 
 * บทที่ 7 Clustering
