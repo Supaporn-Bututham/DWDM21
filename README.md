@@ -31,7 +31,7 @@ Group name : เอกาไร้สติ
     * Data Objects
     * Attributes
     * Attribute Types
-  * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_Chap2.pdf)
+  * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_Chap2%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
     * Similarity, Dissimilarity, and Proximity
     * Data Matrix and Dissimilarity Matrix
     * Standardizing Numeric Data
