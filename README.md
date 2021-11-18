@@ -27,14 +27,14 @@ Data Warehouse & Data Mining วิชาเรียนเกี่ยวกั
      * Generate Data
      * Explore Data
      * Clustering
-       * Import
-       * Define
-       * Fit-Predict
-       * Plot
+        * Import
+        * Define
+        * Fit-Predict
+        * Plot
     * Example Application (Color Quantization)
-     * นับจำนวนสี
-     * จัดกลุ่มสีให้เหลือ 16 สี
-     * ใช้ centroid เป็นตัวแทนของสี
+      * นับจำนวนสี
+      * จัดกลุ่มสีให้เหลือ 16 สี
+      * ใช้ centroid เป็นตัวแทนของสี
 
 * [Project กลุ่ม](https://github.com/Supaporn-Bututham/DWDM21/blob/main/Project_DWDM.ipynb)
    * รายชื่อสมาชิกในกลุ่ม
