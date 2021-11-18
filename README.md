@@ -103,7 +103,7 @@ Group name : เอกาไร้สติ
        * Distance of Binary Value
        
 * บทที่ 3 Data Preprocessing
-  * [Lecture Data Preprocessing](
+  * [Lecture Data Preprocessing](https://github.com/Supaporn-Bututham/DWDM21/blob/main/lecture_Chap3.pdf)
        * Data Preprocessing: An Overview
        * Data Cleaning      
        * 
